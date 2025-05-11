@@ -1,7 +1,5 @@
 # RhythmPrecision
 
-# RhythmPrecision
-
 ## Description
 
 RhythmPrecision is an interactive command-line tool designed to test and improve a user's sense of rhythm and timing. The application challenges users to maintain a consistent rhythm by pressing a key at regular intervals, providing immediate feedback on their performance.
