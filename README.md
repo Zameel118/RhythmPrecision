@@ -116,10 +116,4 @@ Feel free to fork this project and submit pull requests for improvements! Some i
 - Create a scoring system with leaderboards
 - Export results to CSV files
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 Test your rhythm, improve your timing, and see how consistent you really are! 🎵
